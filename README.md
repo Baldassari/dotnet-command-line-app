@@ -1,2 +1,2 @@
-# dotnet-command-line-app
+# .NET Core -  Command Line App
 Command Line Tutorial C#

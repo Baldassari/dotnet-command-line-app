@@ -1,0 +1,10 @@
+C:\NetCore\dotnet-command-line-app\bin\Debug\netcoreapp1.1\NetCore.deps.json
+C:\NetCore\dotnet-command-line-app\bin\Debug\netcoreapp1.1\NetCore.runtimeconfig.json
+C:\NetCore\dotnet-command-line-app\bin\Debug\netcoreapp1.1\NetCore.runtimeconfig.dev.json
+C:\NetCore\dotnet-command-line-app\bin\Debug\netcoreapp1.1\NetCore.dll
+C:\NetCore\dotnet-command-line-app\bin\Debug\netcoreapp1.1\NetCore.pdb
+C:\NetCore\dotnet-command-line-app\obj\Debug\netcoreapp1.1\NetCore.csprojResolveAssemblyReference.cache
+C:\NetCore\dotnet-command-line-app\obj\Debug\netcoreapp1.1\NetCore.csproj.CoreCompileInputs.cache
+C:\NetCore\dotnet-command-line-app\obj\Debug\netcoreapp1.1\NetCore.AssemblyInfo.cs
+C:\NetCore\dotnet-command-line-app\obj\Debug\netcoreapp1.1\NetCore.dll
+C:\NetCore\dotnet-command-line-app\obj\Debug\netcoreapp1.1\NetCore.pdb
