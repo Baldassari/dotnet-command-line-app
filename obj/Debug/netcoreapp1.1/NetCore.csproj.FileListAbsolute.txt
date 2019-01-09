@@ -8,3 +8,14 @@ C:\NetCore\dotnet-command-line-app\obj\Debug\netcoreapp1.1\NetCore.csproj.CoreCo
 C:\NetCore\dotnet-command-line-app\obj\Debug\netcoreapp1.1\NetCore.AssemblyInfo.cs
 C:\NetCore\dotnet-command-line-app\obj\Debug\netcoreapp1.1\NetCore.dll
 C:\NetCore\dotnet-command-line-app\obj\Debug\netcoreapp1.1\NetCore.pdb
+C:\Projects\dotnet-command-line-app\bin\Debug\netcoreapp1.1\NetCore.deps.json
+C:\Projects\dotnet-command-line-app\bin\Debug\netcoreapp1.1\NetCore.runtimeconfig.json
+C:\Projects\dotnet-command-line-app\bin\Debug\netcoreapp1.1\NetCore.runtimeconfig.dev.json
+C:\Projects\dotnet-command-line-app\bin\Debug\netcoreapp1.1\NetCore.dll
+C:\Projects\dotnet-command-line-app\bin\Debug\netcoreapp1.1\NetCore.pdb
+C:\Projects\dotnet-command-line-app\obj\Debug\netcoreapp1.1\NetCore.csprojAssemblyReference.cache
+C:\Projects\dotnet-command-line-app\obj\Debug\netcoreapp1.1\NetCore.csproj.CoreCompileInputs.cache
+C:\Projects\dotnet-command-line-app\obj\Debug\netcoreapp1.1\NetCore.AssemblyInfoInputs.cache
+C:\Projects\dotnet-command-line-app\obj\Debug\netcoreapp1.1\NetCore.AssemblyInfo.cs
+C:\Projects\dotnet-command-line-app\obj\Debug\netcoreapp1.1\NetCore.dll
+C:\Projects\dotnet-command-line-app\obj\Debug\netcoreapp1.1\NetCore.pdb
